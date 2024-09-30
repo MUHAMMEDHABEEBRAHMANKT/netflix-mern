@@ -29,6 +29,12 @@ JWT_SECRET=your_jwt_secre
 TMDB_API_KEY=your_tmdb_api_key
 ```
 
+- PORT=5000
+- MONGO_URI=your_mongo_atlest cluster url
+- NODE_ENV=development
+- JWT_SECRET= to create jwt secret use this command in git bash terminal "openssl rand -base64 32"
+- TMDB_API_KEY=your_tmdb_api_key to get tmdb api key [visit this site](https://www.themoviedb.org/)
+
 ### Run this app locally
 
 ```shell
