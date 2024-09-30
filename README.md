@@ -70,4 +70,4 @@ npm run start
 
 ### I'll see you in the next one! 🚀
 
-### ![credits](https://www.youtube.com/@asaprogrammer_)
+![credits](https://www.youtube.com/@asaprogrammer_)
