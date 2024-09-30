@@ -29,6 +29,8 @@ JWT_SECRET=your_jwt_secre
 TMDB_API_KEY=your_tmdb_api_key
 ```
 
+## steps to setup .env file
+
 - PORT=5000
 - MONGO_URI=your_mongo_atlest cluster url
 - NODE_ENV=development
